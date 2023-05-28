@@ -1,7 +1,7 @@
 # Controlling a Lamp
 ---
 
-## Project Overview
+### Project Overview
 This project offers an IoT-based solution that allows users to control a lamp using their smartphones. Leveraging the power of the Internet of Things (IoT), individuals can conveniently switch the lamp on or off remotely. This project serves as an educational resource, providing insights into IoT concepts and practical implementation.
 
 # About IoT
